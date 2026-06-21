@@ -1,5 +1,7 @@
 # ML Ops Final Project
 
+> Final project for the [DataTalks.Club MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp).
+
 ## Overview
 
 This project demonstrates the complete end-to-end process of building, deploying, and monitoring a machine learning model. The project uses data from Santander bike rentals in Central London during 2014. The key steps include data processing, model training, deployment, and monitoring, all orchestrated using modern ML Ops tools.
